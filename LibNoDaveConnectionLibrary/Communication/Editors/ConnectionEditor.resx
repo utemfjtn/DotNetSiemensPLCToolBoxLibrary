@@ -119,10 +119,10 @@
   </resheader>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="lstConnectionList.Location" type="System.Drawing.Point, System.Drawing">
-    <value>14, 27</value>
+    <value>14, 25</value>
   </data>
   <data name="lstConnectionList.Size" type="System.Drawing.Size, System.Drawing">
-    <value>336, 21</value>
+    <value>336, 20</value>
   </data>
   <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="lstConnectionList.TabIndex" type="System.Int32, mscorlib">
@@ -144,16 +144,16 @@
     <value>True</value>
   </data>
   <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>11, 9</value>
+    <value>17, 7</value>
   </data>
   <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>73, 13</value>
+    <value>35, 12</value>
   </data>
   <data name="label1.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>Verbindungen</value>
+    <value>Links</value>
   </data>
   <data name="&gt;&gt;label1.Name" xml:space="preserve">
     <value>label1</value>
@@ -168,16 +168,16 @@
     <value>45</value>
   </data>
   <data name="cmdConnectionAdd.Location" type="System.Drawing.Point, System.Drawing">
-    <value>356, 18</value>
+    <value>356, 17</value>
   </data>
   <data name="cmdConnectionAdd.Size" type="System.Drawing.Size, System.Drawing">
-    <value>76, 19</value>
+    <value>76, 18</value>
   </data>
   <data name="cmdConnectionAdd.TabIndex" type="System.Int32, mscorlib">
     <value>26</value>
   </data>
   <data name="cmdConnectionAdd.Text" xml:space="preserve">
-    <value>hinzufügen</value>
+    <value>Add</value>
   </data>
   <data name="&gt;&gt;cmdConnectionAdd.Name" xml:space="preserve">
     <value>cmdConnectionAdd</value>
@@ -192,16 +192,16 @@
     <value>43</value>
   </data>
   <data name="cmdConnectionDelete.Location" type="System.Drawing.Point, System.Drawing">
-    <value>356, 43</value>
+    <value>356, 40</value>
   </data>
   <data name="cmdConnectionDelete.Size" type="System.Drawing.Size, System.Drawing">
-    <value>76, 19</value>
+    <value>76, 18</value>
   </data>
   <data name="cmdConnectionDelete.TabIndex" type="System.Int32, mscorlib">
     <value>27</value>
   </data>
   <data name="cmdConnectionDelete.Text" xml:space="preserve">
-    <value>löschen</value>
+    <value>Clear</value>
   </data>
   <data name="&gt;&gt;cmdConnectionDelete.Name" xml:space="preserve">
     <value>cmdConnectionDelete</value>
@@ -220,10 +220,10 @@
     <value>Popup</value>
   </data>
   <data name="lstLIBNODAVEConnectionType.Location" type="System.Drawing.Point, System.Drawing">
-    <value>14, 101</value>
+    <value>14, 93</value>
   </data>
   <data name="lstLIBNODAVEConnectionType.Size" type="System.Drawing.Size, System.Drawing">
-    <value>333, 21</value>
+    <value>333, 20</value>
   </data>
   <data name="lstLIBNODAVEConnectionType.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -244,10 +244,10 @@
     <value>True</value>
   </data>
   <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>11, 83</value>
+    <value>16, 73</value>
   </data>
   <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>48, 13</value>
+    <value>59, 12</value>
   </data>
   <data name="label2.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -271,16 +271,16 @@
     <value>True</value>
   </data>
   <data name="lblLIBNODAVEEntryPoint.Location" type="System.Drawing.Point, System.Drawing">
-    <value>44, 148</value>
+    <value>44, 137</value>
   </data>
   <data name="lblLIBNODAVEEntryPoint.Size" type="System.Drawing.Size, System.Drawing">
-    <value>76, 13</value>
+    <value>77, 12</value>
   </data>
   <data name="lblLIBNODAVEEntryPoint.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
   </data>
   <data name="lblLIBNODAVEEntryPoint.Text" xml:space="preserve">
-    <value>Zugangspunkt</value>
+    <value>Access Point</value>
   </data>
   <data name="&gt;&gt;lblLIBNODAVEEntryPoint.Name" xml:space="preserve">
     <value>lblLIBNODAVEEntryPoint</value>
@@ -295,10 +295,10 @@
     <value>35</value>
   </data>
   <data name="txtLIBNODAVECPURack.Location" type="System.Drawing.Point, System.Drawing">
-    <value>130, 185</value>
+    <value>130, 171</value>
   </data>
   <data name="txtLIBNODAVECPURack.Size" type="System.Drawing.Size, System.Drawing">
-    <value>49, 20</value>
+    <value>49, 21</value>
   </data>
   <data name="txtLIBNODAVECPURack.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -322,10 +322,10 @@
     <value>True</value>
   </data>
   <data name="lblLIBNODAVECPURack.Location" type="System.Drawing.Point, System.Drawing">
-    <value>48, 188</value>
+    <value>48, 174</value>
   </data>
   <data name="lblLIBNODAVECPURack.Size" type="System.Drawing.Size, System.Drawing">
-    <value>58, 13</value>
+    <value>53, 12</value>
   </data>
   <data name="lblLIBNODAVECPURack.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -346,10 +346,10 @@
     <value>25</value>
   </data>
   <data name="txtLIBNODAVECPUSlot.Location" type="System.Drawing.Point, System.Drawing">
-    <value>130, 211</value>
+    <value>130, 195</value>
   </data>
   <data name="txtLIBNODAVECPUSlot.Size" type="System.Drawing.Size, System.Drawing">
-    <value>49, 20</value>
+    <value>49, 21</value>
   </data>
   <data name="txtLIBNODAVECPUSlot.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -373,10 +373,10 @@
     <value>True</value>
   </data>
   <data name="lblLIBNODAVECPUSlot.Location" type="System.Drawing.Point, System.Drawing">
-    <value>48, 214</value>
+    <value>48, 198</value>
   </data>
   <data name="lblLIBNODAVECPUSlot.Size" type="System.Drawing.Size, System.Drawing">
-    <value>50, 13</value>
+    <value>53, 12</value>
   </data>
   <data name="lblLIBNODAVECPUSlot.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -397,10 +397,10 @@
     <value>24</value>
   </data>
   <data name="txtLIBNODAVECPUIP.Location" type="System.Drawing.Point, System.Drawing">
-    <value>130, 262</value>
+    <value>130, 242</value>
   </data>
   <data name="txtLIBNODAVECPUIP.Size" type="System.Drawing.Size, System.Drawing">
-    <value>97, 20</value>
+    <value>97, 21</value>
   </data>
   <data name="txtLIBNODAVECPUIP.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
@@ -424,10 +424,10 @@
     <value>True</value>
   </data>
   <data name="lblLIBNODAVECPUIP.Location" type="System.Drawing.Point, System.Drawing">
-    <value>48, 265</value>
+    <value>48, 245</value>
   </data>
   <data name="lblLIBNODAVECPUIP.Size" type="System.Drawing.Size, System.Drawing">
-    <value>58, 13</value>
+    <value>65, 12</value>
   </data>
   <data name="lblLIBNODAVECPUIP.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -451,10 +451,10 @@
     <value>True</value>
   </data>
   <data name="lblLIBNODAVELokalCOMPort.Location" type="System.Drawing.Point, System.Drawing">
-    <value>308, 235</value>
+    <value>308, 217</value>
   </data>
   <data name="lblLIBNODAVELokalCOMPort.Size" type="System.Drawing.Size, System.Drawing">
-    <value>53, 13</value>
+    <value>53, 12</value>
   </data>
   <data name="lblLIBNODAVELokalCOMPort.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -475,10 +475,10 @@
     <value>31</value>
   </data>
   <data name="txtLIBNODAVELokalMPI.Location" type="System.Drawing.Point, System.Drawing">
-    <value>387, 206</value>
+    <value>387, 190</value>
   </data>
   <data name="txtLIBNODAVELokalMPI.Size" type="System.Drawing.Size, System.Drawing">
-    <value>49, 20</value>
+    <value>49, 21</value>
   </data>
   <data name="txtLIBNODAVELokalMPI.TabIndex" type="System.Int32, mscorlib">
     <value>12</value>
@@ -502,10 +502,10 @@
     <value>True</value>
   </data>
   <data name="lblLIBNODAVELokalMPI.Location" type="System.Drawing.Point, System.Drawing">
-    <value>308, 209</value>
+    <value>308, 193</value>
   </data>
   <data name="lblLIBNODAVELokalMPI.Size" type="System.Drawing.Size, System.Drawing">
-    <value>55, 13</value>
+    <value>59, 12</value>
   </data>
   <data name="lblLIBNODAVELokalMPI.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -526,10 +526,10 @@
     <value>28</value>
   </data>
   <data name="txtLIBNODAVECPUMPI.Location" type="System.Drawing.Point, System.Drawing">
-    <value>130, 236</value>
+    <value>130, 218</value>
   </data>
   <data name="txtLIBNODAVECPUMPI.Size" type="System.Drawing.Size, System.Drawing">
-    <value>49, 20</value>
+    <value>49, 21</value>
   </data>
   <data name="txtLIBNODAVECPUMPI.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -553,10 +553,10 @@
     <value>True</value>
   </data>
   <data name="lblLIBNODAVECPUMPI.Location" type="System.Drawing.Point, System.Drawing">
-    <value>48, 239</value>
+    <value>48, 221</value>
   </data>
   <data name="lblLIBNODAVECPUMPI.Size" type="System.Drawing.Size, System.Drawing">
-    <value>51, 13</value>
+    <value>47, 12</value>
   </data>
   <data name="lblLIBNODAVECPUMPI.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -580,10 +580,10 @@
     <value>Popup</value>
   </data>
   <data name="lstLIBNODAVEBusSpeed.Location" type="System.Drawing.Point, System.Drawing">
-    <value>130, 314</value>
+    <value>130, 290</value>
   </data>
   <data name="lstLIBNODAVEBusSpeed.Size" type="System.Drawing.Size, System.Drawing">
-    <value>131, 21</value>
+    <value>131, 20</value>
   </data>
   <data name="lstLIBNODAVEBusSpeed.TabIndex" type="System.Int32, mscorlib">
     <value>9</value>
@@ -601,10 +601,10 @@
     <value>23</value>
   </data>
   <data name="cmdOK.Location" type="System.Drawing.Point, System.Drawing">
-    <value>452, 10</value>
+    <value>452, 9</value>
   </data>
   <data name="cmdOK.Size" type="System.Drawing.Size, System.Drawing">
-    <value>89, 38</value>
+    <value>89, 35</value>
   </data>
   <data name="cmdOK.TabIndex" type="System.Int32, mscorlib">
     <value>25</value>
@@ -625,16 +625,16 @@
     <value>19</value>
   </data>
   <data name="cmdSave.Location" type="System.Drawing.Point, System.Drawing">
-    <value>362, 101</value>
+    <value>362, 93</value>
   </data>
   <data name="cmdSave.Size" type="System.Drawing.Size, System.Drawing">
-    <value>73, 21</value>
+    <value>73, 19</value>
   </data>
   <data name="cmdSave.TabIndex" type="System.Int32, mscorlib">
     <value>23</value>
   </data>
   <data name="cmdSave.Text" xml:space="preserve">
-    <value>speichern</value>
+    <value>Save</value>
   </data>
   <data name="cmdSave.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -655,10 +655,10 @@
     <value>Microsoft Sans Serif, 9pt, style=Bold</value>
   </data>
   <data name="lblConnectionName.Location" type="System.Drawing.Point, System.Drawing">
-    <value>14, 27</value>
+    <value>14, 25</value>
   </data>
   <data name="lblConnectionName.Size" type="System.Drawing.Size, System.Drawing">
-    <value>333, 21</value>
+    <value>333, 20</value>
   </data>
   <data name="lblConnectionName.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
@@ -685,10 +685,10 @@
     <value>Popup</value>
   </data>
   <data name="lstLIBNODAVELokalCOMPort.Location" type="System.Drawing.Point, System.Drawing">
-    <value>387, 231</value>
+    <value>387, 213</value>
   </data>
   <data name="lstLIBNODAVELokalCOMPort.Size" type="System.Drawing.Size, System.Drawing">
-    <value>124, 21</value>
+    <value>124, 20</value>
   </data>
   <data name="lstLIBNODAVELokalCOMPort.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
@@ -709,10 +709,10 @@
     <value>True</value>
   </data>
   <data name="lblLIBNODAVEBusSpeed.Location" type="System.Drawing.Point, System.Drawing">
-    <value>47, 317</value>
+    <value>47, 293</value>
   </data>
   <data name="lblLIBNODAVEBusSpeed.Size" type="System.Drawing.Size, System.Drawing">
-    <value>80, 13</value>
+    <value>77, 12</value>
   </data>
   <data name="lblLIBNODAVEBusSpeed.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -733,16 +733,16 @@
     <value>30</value>
   </data>
   <data name="cmdUndo.Location" type="System.Drawing.Point, System.Drawing">
-    <value>441, 101</value>
+    <value>441, 93</value>
   </data>
   <data name="cmdUndo.Size" type="System.Drawing.Size, System.Drawing">
-    <value>73, 21</value>
+    <value>73, 19</value>
   </data>
   <data name="cmdUndo.TabIndex" type="System.Int32, mscorlib">
     <value>24</value>
   </data>
   <data name="cmdUndo.Text" xml:space="preserve">
-    <value>rückgänig</value>
+    <value>Reverse</value>
   </data>
   <data name="cmdUndo.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -766,16 +766,16 @@
     <value>True</value>
   </data>
   <data name="chkNetlinkReset.Location" type="System.Drawing.Point, System.Drawing">
-    <value>311, 317</value>
+    <value>282, 293</value>
   </data>
   <data name="chkNetlinkReset.Size" type="System.Drawing.Size, System.Drawing">
-    <value>188, 17</value>
+    <value>252, 16</value>
   </data>
   <data name="chkNetlinkReset.TabIndex" type="System.Int32, mscorlib">
     <value>16</value>
   </data>
   <data name="chkNetlinkReset.Text" xml:space="preserve">
-    <value>Netlink beim aufbau immer reseten</value>
+    <value>Netlink always reseted when setting up</value>
   </data>
   <data name="chkNetlinkReset.ToolTip" xml:space="preserve">
     <value>Es kann beim Netlink vorkommen das wenn eine Verbindung nicht richtig beendet wird, die
@@ -803,10 +803,10 @@ Achtung: Verbindungen von anderer Software zum Netlink wird dann auch getrennt!<
     <value>True</value>
   </data>
   <data name="lblTimeout.Location" type="System.Drawing.Point, System.Drawing">
-    <value>308, 175</value>
+    <value>308, 162</value>
   </data>
   <data name="lblTimeout.Size" type="System.Drawing.Size, System.Drawing">
-    <value>45, 13</value>
+    <value>47, 12</value>
   </data>
   <data name="lblTimeout.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
@@ -830,10 +830,10 @@ Achtung: Verbindungen von anderer Software zum Netlink wird dann auch getrennt!<
     <value>8</value>
   </data>
   <data name="txtTimeout.Location" type="System.Drawing.Point, System.Drawing">
-    <value>387, 172</value>
+    <value>387, 159</value>
   </data>
   <data name="txtTimeout.Size" type="System.Drawing.Size, System.Drawing">
-    <value>90, 20</value>
+    <value>90, 21</value>
   </data>
   <data name="txtTimeout.TabIndex" type="System.Int32, mscorlib">
     <value>11</value>
@@ -857,10 +857,10 @@ Achtung: Verbindungen von anderer Software zum Netlink wird dann auch getrennt!<
     <value>10</value>
   </data>
   <data name="txtTimeoutIPConnect.Location" type="System.Drawing.Point, System.Drawing">
-    <value>427, 148</value>
+    <value>427, 137</value>
   </data>
   <data name="txtTimeoutIPConnect.Size" type="System.Drawing.Size, System.Drawing">
-    <value>50, 20</value>
+    <value>50, 21</value>
   </data>
   <data name="txtTimeoutIPConnect.TabIndex" type="System.Int32, mscorlib">
     <value>10</value>
@@ -887,10 +887,10 @@ Achtung: Verbindungen von anderer Software zum Netlink wird dann auch getrennt!<
     <value>True</value>
   </data>
   <data name="lblTimeoutIPConnect.Location" type="System.Drawing.Point, System.Drawing">
-    <value>308, 151</value>
+    <value>308, 139</value>
   </data>
   <data name="lblTimeoutIPConnect.Size" type="System.Drawing.Size, System.Drawing">
-    <value>101, 13</value>
+    <value>113, 12</value>
   </data>
   <data name="lblTimeoutIPConnect.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
@@ -917,10 +917,10 @@ Achtung: Verbindungen von anderer Software zum Netlink wird dann auch getrennt!<
     <value>False</value>
   </data>
   <data name="txtWritePort.Location" type="System.Drawing.Point, System.Drawing">
-    <value>195, 288</value>
+    <value>195, 266</value>
   </data>
   <data name="txtWritePort.Size" type="System.Drawing.Size, System.Drawing">
-    <value>59, 20</value>
+    <value>59, 21</value>
   </data>
   <data name="txtWritePort.TabIndex" type="System.Int32, mscorlib">
     <value>32</value>
@@ -941,10 +941,10 @@ Achtung: Verbindungen von anderer Software zum Netlink wird dann auch getrennt!<
     <value>0</value>
   </data>
   <data name="btnConfigEntryPoint.Location" type="System.Drawing.Point, System.Drawing">
-    <value>265, 145</value>
+    <value>265, 134</value>
   </data>
   <data name="btnConfigEntryPoint.Size" type="System.Drawing.Size, System.Drawing">
-    <value>26, 20</value>
+    <value>26, 18</value>
   </data>
   <data name="btnConfigEntryPoint.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -968,10 +968,10 @@ Achtung: Verbindungen von anderer Software zum Netlink wird dann auch getrennt!<
     <value>Popup</value>
   </data>
   <data name="lstListEntryPoints.Location" type="System.Drawing.Point, System.Drawing">
-    <value>130, 144</value>
+    <value>130, 133</value>
   </data>
   <data name="lstListEntryPoints.Size" type="System.Drawing.Size, System.Drawing">
-    <value>131, 21</value>
+    <value>131, 20</value>
   </data>
   <data name="lstListEntryPoints.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -992,10 +992,10 @@ Achtung: Verbindungen von anderer Software zum Netlink wird dann auch getrennt!<
     <value>True</value>
   </data>
   <data name="lblLIBNODAVELokalComSpeed.Location" type="System.Drawing.Point, System.Drawing">
-    <value>308, 260</value>
+    <value>308, 240</value>
   </data>
   <data name="lblLIBNODAVELokalComSpeed.Size" type="System.Drawing.Size, System.Drawing">
-    <value>65, 13</value>
+    <value>59, 12</value>
   </data>
   <data name="lblLIBNODAVELokalComSpeed.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -1073,10 +1073,10 @@ Achtung: Verbindungen von anderer Software zum Netlink wird dann auch getrennt!<
     <value>128000</value>
   </data>
   <data name="lstLIBNODAVELokalComSpeed.Location" type="System.Drawing.Point, System.Drawing">
-    <value>387, 256</value>
+    <value>387, 236</value>
   </data>
   <data name="lstLIBNODAVELokalComSpeed.Size" type="System.Drawing.Size, System.Drawing">
-    <value>112, 21</value>
+    <value>112, 20</value>
   </data>
   <data name="lstLIBNODAVELokalComSpeed.TabIndex" type="System.Int32, mscorlib">
     <value>14</value>
@@ -1097,10 +1097,10 @@ Achtung: Verbindungen von anderer Software zum Netlink wird dann auch getrennt!<
     <value>True</value>
   </data>
   <data name="lblLIBNODAVELokalComParity.Location" type="System.Drawing.Point, System.Drawing">
-    <value>308, 286</value>
+    <value>308, 264</value>
   </data>
   <data name="lblLIBNODAVELokalComParity.Size" type="System.Drawing.Size, System.Drawing">
-    <value>60, 13</value>
+    <value>65, 12</value>
   </data>
   <data name="lblLIBNODAVELokalComParity.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -1133,10 +1133,10 @@ Achtung: Verbindungen von anderer Software zum Netlink wird dann auch getrennt!<
     <value>odd</value>
   </data>
   <data name="lstLIBNODAVELokalComParity.Location" type="System.Drawing.Point, System.Drawing">
-    <value>387, 282</value>
+    <value>387, 260</value>
   </data>
   <data name="lstLIBNODAVELokalComParity.Size" type="System.Drawing.Size, System.Drawing">
-    <value>112, 21</value>
+    <value>112, 20</value>
   </data>
   <data name="lstLIBNODAVELokalComParity.TabIndex" type="System.Int32, mscorlib">
     <value>15</value>
@@ -1154,10 +1154,10 @@ Achtung: Verbindungen von anderer Software zum Netlink wird dann auch getrennt!<
     <value>20</value>
   </data>
   <data name="txtRoutingDestination.Location" type="System.Drawing.Point, System.Drawing">
-    <value>155, 42</value>
+    <value>155, 39</value>
   </data>
   <data name="txtRoutingDestination.Size" type="System.Drawing.Size, System.Drawing">
-    <value>84, 20</value>
+    <value>84, 21</value>
   </data>
   <data name="txtRoutingDestination.TabIndex" type="System.Int32, mscorlib">
     <value>18</value>
@@ -1181,16 +1181,16 @@ Achtung: Verbindungen von anderer Software zum Netlink wird dann auch getrennt!<
     <value>True</value>
   </data>
   <data name="lblRoutingDestination.Location" type="System.Drawing.Point, System.Drawing">
-    <value>37, 45</value>
+    <value>12, 42</value>
   </data>
   <data name="lblRoutingDestination.Size" type="System.Drawing.Size, System.Drawing">
-    <value>112, 13</value>
+    <value>137, 12</value>
   </data>
   <data name="lblRoutingDestination.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
   </data>
   <data name="lblRoutingDestination.Text" xml:space="preserve">
-    <value>Ziel CPU (MPI/DP/IP)</value>
+    <value>Target CPU (MPI/DP/IP)</value>
   </data>
   <data name="&gt;&gt;lblRoutingDestination.Name" xml:space="preserve">
     <value>lblRoutingDestination</value>
@@ -1208,10 +1208,10 @@ Achtung: Verbindungen von anderer Software zum Netlink wird dann auch getrennt!<
     <value>True</value>
   </data>
   <data name="chkRouting.Location" type="System.Drawing.Point, System.Drawing">
-    <value>14, 19</value>
+    <value>14, 18</value>
   </data>
   <data name="chkRouting.Size" type="System.Drawing.Size, System.Drawing">
-    <value>63, 17</value>
+    <value>66, 16</value>
   </data>
   <data name="chkRouting.TabIndex" type="System.Int32, mscorlib">
     <value>17</value>
@@ -1232,13 +1232,13 @@ Achtung: Verbindungen von anderer Software zum Netlink wird dann auch getrennt!<
     <value>2</value>
   </data>
   <data name="txtRoutingSubnetFirst.Location" type="System.Drawing.Point, System.Drawing">
-    <value>269, 68</value>
+    <value>269, 63</value>
   </data>
   <data name="txtRoutingSubnetFirst.MaxLength" type="System.Int32, mscorlib">
     <value>4</value>
   </data>
   <data name="txtRoutingSubnetFirst.Size" type="System.Drawing.Size, System.Drawing">
-    <value>48, 20</value>
+    <value>48, 21</value>
   </data>
   <data name="txtRoutingSubnetFirst.TabIndex" type="System.Int32, mscorlib">
     <value>21</value>
@@ -1265,16 +1265,16 @@ Achtung: Verbindungen von anderer Software zum Netlink wird dann auch getrennt!<
     <value>True</value>
   </data>
   <data name="lblRoutingSubnet.Location" type="System.Drawing.Point, System.Drawing">
-    <value>289, 45</value>
+    <value>274, 42</value>
   </data>
   <data name="lblRoutingSubnet.Size" type="System.Drawing.Size, System.Drawing">
-    <value>76, 13</value>
+    <value>77, 12</value>
   </data>
   <data name="lblRoutingSubnet.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
   </data>
   <data name="lblRoutingSubnet.Text" xml:space="preserve">
-    <value>S7-Subnetz-ID</value>
+    <value>S7-Subnet-ID</value>
   </data>
   <data name="&gt;&gt;lblRoutingSubnet.Name" xml:space="preserve">
     <value>lblRoutingSubnet</value>
@@ -1289,13 +1289,13 @@ Achtung: Verbindungen von anderer Software zum Netlink wird dann auch getrennt!<
     <value>11</value>
   </data>
   <data name="txtRoutingSubnetSecond.Location" type="System.Drawing.Point, System.Drawing">
-    <value>332, 68</value>
+    <value>332, 63</value>
   </data>
   <data name="txtRoutingSubnetSecond.MaxLength" type="System.Int32, mscorlib">
     <value>4</value>
   </data>
   <data name="txtRoutingSubnetSecond.Size" type="System.Drawing.Size, System.Drawing">
-    <value>48, 20</value>
+    <value>48, 21</value>
   </data>
   <data name="txtRoutingSubnetSecond.TabIndex" type="System.Int32, mscorlib">
     <value>22</value>
@@ -1322,10 +1322,10 @@ Achtung: Verbindungen von anderer Software zum Netlink wird dann auch getrennt!<
     <value>True</value>
   </data>
   <data name="lblRoutingMinus.Location" type="System.Drawing.Point, System.Drawing">
-    <value>320, 71</value>
+    <value>320, 66</value>
   </data>
   <data name="lblRoutingMinus.Size" type="System.Drawing.Size, System.Drawing">
-    <value>10, 13</value>
+    <value>11, 12</value>
   </data>
   <data name="lblRoutingMinus.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -1346,10 +1346,10 @@ Achtung: Verbindungen von anderer Software zum Netlink wird dann auch getrennt!<
     <value>12</value>
   </data>
   <data name="txtRoutingRack.Location" type="System.Drawing.Point, System.Drawing">
-    <value>155, 68</value>
+    <value>155, 63</value>
   </data>
   <data name="txtRoutingRack.Size" type="System.Drawing.Size, System.Drawing">
-    <value>49, 20</value>
+    <value>49, 21</value>
   </data>
   <data name="txtRoutingRack.TabIndex" type="System.Int32, mscorlib">
     <value>19</value>
@@ -1373,10 +1373,10 @@ Achtung: Verbindungen von anderer Software zum Netlink wird dann auch getrennt!<
     <value>True</value>
   </data>
   <data name="lblRoutingRack.Location" type="System.Drawing.Point, System.Drawing">
-    <value>116, 71</value>
+    <value>116, 66</value>
   </data>
   <data name="lblRoutingRack.Size" type="System.Drawing.Size, System.Drawing">
-    <value>33, 13</value>
+    <value>29, 12</value>
   </data>
   <data name="lblRoutingRack.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -1397,10 +1397,10 @@ Achtung: Verbindungen von anderer Software zum Netlink wird dann auch getrennt!<
     <value>9</value>
   </data>
   <data name="txtRoutingSlot.Location" type="System.Drawing.Point, System.Drawing">
-    <value>155, 94</value>
+    <value>155, 87</value>
   </data>
   <data name="txtRoutingSlot.Size" type="System.Drawing.Size, System.Drawing">
-    <value>49, 20</value>
+    <value>49, 21</value>
   </data>
   <data name="txtRoutingSlot.TabIndex" type="System.Int32, mscorlib">
     <value>20</value>
@@ -1424,10 +1424,10 @@ Achtung: Verbindungen von anderer Software zum Netlink wird dann auch getrennt!<
     <value>True</value>
   </data>
   <data name="lblRoutingSlot.Location" type="System.Drawing.Point, System.Drawing">
-    <value>116, 97</value>
+    <value>116, 90</value>
   </data>
   <data name="lblRoutingSlot.Size" type="System.Drawing.Size, System.Drawing">
-    <value>25, 13</value>
+    <value>29, 12</value>
   </data>
   <data name="lblRoutingSlot.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -1447,51 +1447,6 @@ Achtung: Verbindungen von anderer Software zum Netlink wird dann auch getrennt!<
   <data name="&gt;&gt;lblRoutingSlot.ZOrder" xml:space="preserve">
     <value>10</value>
   </data>
-  <data name="&gt;&gt;label4.Name" xml:space="preserve">
-    <value>label4</value>
-  </data>
-  <data name="&gt;&gt;label4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label4.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;label4.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;lstConnTypeRouting.Name" xml:space="preserve">
-    <value>lstConnTypeRouting</value>
-  </data>
-  <data name="&gt;&gt;lstConnTypeRouting.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lstConnTypeRouting.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;lstConnTypeRouting.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="groupBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>14, 368</value>
-  </data>
-  <data name="groupBox1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>406, 123</value>
-  </data>
-  <data name="groupBox1.TabIndex" type="System.Int32, mscorlib">
-    <value>11</value>
-  </data>
-  <data name="&gt;&gt;groupBox1.Name" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;groupBox1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;groupBox1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;groupBox1.ZOrder" xml:space="preserve">
-    <value>11</value>
-  </data>
   <data name="label4.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -1499,10 +1454,10 @@ Achtung: Verbindungen von anderer Software zum Netlink wird dann auch getrennt!<
     <value>NoControl</value>
   </data>
   <data name="label4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>209, 97</value>
+    <value>209, 90</value>
   </data>
   <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>82, 13</value>
+    <value>89, 12</value>
   </data>
   <data name="label4.TabIndex" type="System.Int32, mscorlib">
     <value>31</value>
@@ -1535,10 +1490,10 @@ Achtung: Verbindungen von anderer Software zum Netlink wird dann auch getrennt!<
     <value>2 = OP</value>
   </data>
   <data name="lstConnTypeRouting.Location" type="System.Drawing.Point, System.Drawing">
-    <value>296, 93</value>
+    <value>296, 86</value>
   </data>
   <data name="lstConnTypeRouting.Size" type="System.Drawing.Size, System.Drawing">
-    <value>97, 21</value>
+    <value>97, 20</value>
   </data>
   <data name="lstConnTypeRouting.TabIndex" type="System.Int32, mscorlib">
     <value>31</value>
@@ -1555,6 +1510,27 @@ Achtung: Verbindungen von anderer Software zum Netlink wird dann auch getrennt!<
   <data name="&gt;&gt;lstConnTypeRouting.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
+  <data name="groupBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>14, 340</value>
+  </data>
+  <data name="groupBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>406, 114</value>
+  </data>
+  <data name="groupBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Name" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
   <data name="lblS7OnlineDevice.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -1562,7 +1538,7 @@ Achtung: Verbindungen von anderer Software zum Netlink wird dann auch getrennt!<
     <value>Microsoft Sans Serif, 6pt</value>
   </data>
   <data name="lblS7OnlineDevice.Location" type="System.Drawing.Point, System.Drawing">
-    <value>134, 168</value>
+    <value>134, 155</value>
   </data>
   <data name="lblS7OnlineDevice.Size" type="System.Drawing.Size, System.Drawing">
     <value>27, 9</value>
@@ -1586,10 +1562,10 @@ Achtung: Verbindungen von anderer Software zum Netlink wird dann auch getrennt!<
     <value>34</value>
   </data>
   <data name="txtLIBNODAVECPUPort.Location" type="System.Drawing.Point, System.Drawing">
-    <value>130, 288</value>
+    <value>130, 266</value>
   </data>
   <data name="txtLIBNODAVECPUPort.Size" type="System.Drawing.Size, System.Drawing">
-    <value>59, 20</value>
+    <value>59, 21</value>
   </data>
   <data name="txtLIBNODAVECPUPort.TabIndex" type="System.Int32, mscorlib">
     <value>8</value>
@@ -1613,10 +1589,10 @@ Achtung: Verbindungen von anderer Software zum Netlink wird dann auch getrennt!<
     <value>True</value>
   </data>
   <data name="lblLIBNODAVECPUPort.Location" type="System.Drawing.Point, System.Drawing">
-    <value>48, 291</value>
+    <value>48, 269</value>
   </data>
   <data name="lblLIBNODAVECPUPort.Size" type="System.Drawing.Size, System.Drawing">
-    <value>26, 13</value>
+    <value>29, 12</value>
   </data>
   <data name="lblLIBNODAVECPUPort.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -1640,10 +1616,10 @@ Achtung: Verbindungen von anderer Software zum Netlink wird dann auch getrennt!<
     <value>True</value>
   </data>
   <data name="lblTimeoutDescr.Location" type="System.Drawing.Point, System.Drawing">
-    <value>483, 175</value>
+    <value>483, 162</value>
   </data>
   <data name="lblTimeoutDescr.Size" type="System.Drawing.Size, System.Drawing">
-    <value>22, 13</value>
+    <value>17, 12</value>
   </data>
   <data name="lblTimeoutDescr.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
@@ -1667,10 +1643,10 @@ Achtung: Verbindungen von anderer Software zum Netlink wird dann auch getrennt!<
     <value>True</value>
   </data>
   <data name="lblTimeoutIPConnectDescr.Location" type="System.Drawing.Point, System.Drawing">
-    <value>483, 151</value>
+    <value>483, 139</value>
   </data>
   <data name="lblTimeoutIPConnectDescr.Size" type="System.Drawing.Size, System.Drawing">
-    <value>22, 13</value>
+    <value>17, 12</value>
   </data>
   <data name="lblTimeoutIPConnectDescr.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
@@ -1691,16 +1667,16 @@ Achtung: Verbindungen von anderer Software zum Netlink wird dann auch getrennt!<
     <value>5</value>
   </data>
   <data name="cmdTest.Location" type="System.Drawing.Point, System.Drawing">
-    <value>14, 500</value>
+    <value>14, 462</value>
   </data>
   <data name="cmdTest.Size" type="System.Drawing.Size, System.Drawing">
-    <value>89, 38</value>
+    <value>89, 35</value>
   </data>
   <data name="cmdTest.TabIndex" type="System.Int32, mscorlib">
     <value>25</value>
   </data>
   <data name="cmdTest.Text" xml:space="preserve">
-    <value>Verbindung testen</value>
+    <value>Connection Test</value>
   </data>
   <data name="&gt;&gt;cmdTest.Name" xml:space="preserve">
     <value>cmdTest</value>
@@ -1715,10 +1691,10 @@ Achtung: Verbindungen von anderer Software zum Netlink wird dann auch getrennt!<
     <value>18</value>
   </data>
   <data name="lblState.Location" type="System.Drawing.Point, System.Drawing">
-    <value>109, 507</value>
+    <value>109, 468</value>
   </data>
   <data name="lblState.Size" type="System.Drawing.Size, System.Drawing">
-    <value>433, 25</value>
+    <value>433, 23</value>
   </data>
   <data name="lblState.TabIndex" type="System.Int32, mscorlib">
     <value>28</value>
@@ -1754,10 +1730,10 @@ Achtung: Verbindungen von anderer Software zum Netlink wird dann auch getrennt!<
     <value>2 = OP</value>
   </data>
   <data name="lstConnType.Location" type="System.Drawing.Point, System.Drawing">
-    <value>427, 388</value>
+    <value>427, 358</value>
   </data>
   <data name="lstConnType.Size" type="System.Drawing.Size, System.Drawing">
-    <value>112, 21</value>
+    <value>112, 20</value>
   </data>
   <data name="lstConnType.TabIndex" type="System.Int32, mscorlib">
     <value>30</value>
@@ -1781,10 +1757,10 @@ Achtung: Verbindungen von anderer Software zum Netlink wird dann auch getrennt!<
     <value>NoControl</value>
   </data>
   <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>426, 365</value>
+    <value>426, 337</value>
   </data>
   <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>82, 13</value>
+    <value>89, 12</value>
   </data>
   <data name="label3.TabIndex" type="System.Int32, mscorlib">
     <value>29</value>
@@ -1811,16 +1787,16 @@ Achtung: Verbindungen von anderer Software zum Netlink wird dann auch getrennt!<
     <value>NoControl</value>
   </data>
   <data name="chkUseShortRequest.Location" type="System.Drawing.Point, System.Drawing">
-    <value>289, 340</value>
+    <value>282, 314</value>
   </data>
   <data name="chkUseShortRequest.Size" type="System.Drawing.Size, System.Drawing">
-    <value>250, 17</value>
+    <value>264, 16</value>
   </data>
   <data name="chkUseShortRequest.TabIndex" type="System.Int32, mscorlib">
     <value>31</value>
   </data>
   <data name="chkUseShortRequest.Text" xml:space="preserve">
-    <value>Benutze Short DB Request (nur bei 400er CPU)</value>
+    <value>Use Short DB Request (only with 400 CPU)</value>
   </data>
   <data name="&gt;&gt;chkUseShortRequest.Name" xml:space="preserve">
     <value>chkUseShortRequest</value>
@@ -1844,10 +1820,10 @@ Achtung: Verbindungen von anderer Software zum Netlink wird dann auch getrennt!<
     <value>29</value>
   </metadata>
   <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>6, 13</value>
+    <value>6, 12</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>553, 543</value>
+    <value>553, 501</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>PLC Connection Library - Connection Editor</value>
