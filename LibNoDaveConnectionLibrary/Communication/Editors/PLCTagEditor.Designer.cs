@@ -46,6 +46,8 @@
             this.label3 = new System.Windows.Forms.Label();
             this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
             this.lblPT2 = new System.Windows.Forms.Label();
+            this.textValueName = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
             this.flowLayoutPanel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -153,6 +155,17 @@
             resources.ApplyResources(this.lblPT2, "lblPT2");
             this.lblPT2.Name = "lblPT2";
             // 
+            // textValueName
+            // 
+            resources.ApplyResources(this.textValueName, "textValueName");
+            this.textValueName.Name = "textValueName";
+            this.textValueName.TextChanged += new System.EventHandler(this.txtLen_TextChanged);
+            // 
+            // label4
+            // 
+            resources.ApplyResources(this.label4, "label4");
+            this.label4.Name = "label4";
+            // 
             // PLCTagEditor
             // 
             resources.ApplyResources(this, "$this");
@@ -165,7 +178,9 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.label1);
+            this.Controls.Add(this.label4);
             this.Controls.Add(this.lblLen);
+            this.Controls.Add(this.textValueName);
             this.Controls.Add(this.txtLen);
             this.Controls.Add(this.txtValueInS7);
             this.Controls.Add(this.cmbType);
@@ -199,5 +214,7 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.FlowLayoutPanel flowLayoutPanel1;
         private System.Windows.Forms.Label lblPT2;
+        private System.Windows.Forms.TextBox textValueName;
+        private System.Windows.Forms.Label label4;
     }
 }

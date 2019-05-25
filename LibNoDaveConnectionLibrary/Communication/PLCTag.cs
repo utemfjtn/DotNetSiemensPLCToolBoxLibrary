@@ -1343,10 +1343,12 @@ namespace DotNetSiemensPLCToolBoxLibrary.Communication
 
                     ArraySize = Convert.ToInt32(_ArraySize * tsize);
 
-                    if (this.TagDataType == TagDataType.String)
-                    {
-                        ArraySize -= 2;
-                    }
+                    //YAN.QIAN Why -=2
+                    //if (this.TagDataType == TagDataType.String)
+                    //{
+                    //    ArraySize -= 2;
+                    //}
+                    //YAN.QIAN Why -=2
                     //if (this.TagDataType != TagDataType.ByteArray && this.TagDataType != TagDataType.CharArray && this.TagDataType != TagDataType.String && this.TagDataType != TagDataType.DateTime)
                     //    this.TagDataType = TagDataType.ByteArray;
                     //if (ArraySize != 8 && this.TagDataType == TagDataType.DateTime)
@@ -1862,7 +1864,10 @@ namespace DotNetSiemensPLCToolBoxLibrary.Communication
                                 if (size > ArraySize)
                                     size = ArraySize;
 
-                                _setValueProp = Encoding.Default.GetString(buff, startpos + 2, size);
+                                //YAN.QIAN Why +2
+                                //_setValueProp = Encoding.Default.GetString(buff, startpos + 2, size);
+                                //YAN.QIAN Why +2
+                                _setValueProp = Encoding.Default.GetString(buff, startpos, size);
                             }
                             else
                                 _setValueProp = Encoding.Default.GetString(buff, startpos, Math.Min(buff.Length - startpos, ArraySize)).Split('\0')[0];
@@ -2223,7 +2228,7 @@ namespace DotNetSiemensPLCToolBoxLibrary.Communication
             switch (this.TagDataType)
             {
                 case TagDataType.String:
-                    return ArraySize + 2;
+                    //return ArraySize + 2;  //YAN.QIAN  Why +2
                 case TagDataType.CharArray:
                 case TagDataType.ByteArray:
                 case TagDataType.BCDArray:

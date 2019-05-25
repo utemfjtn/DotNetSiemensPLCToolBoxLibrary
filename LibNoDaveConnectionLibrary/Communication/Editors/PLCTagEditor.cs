@@ -81,6 +81,11 @@ namespace DotNetSiemensPLCToolBoxLibrary.Communication
             _libnodavevalue.TagDataSource = (MemoryArea) ((EnumListItem) cmbSource.SelectedItem).Value;
             _libnodavevalue.TagDataType = (TagDataType)((EnumListItem)cmbType.SelectedItem).Value;
 
+            if (textValueName.Text !=null && textValueName.Text.Length >=1)
+            {
+                _libnodavevalue.ValueName = textValueName.Text;
+            }
+
             this.Close();
 
 
