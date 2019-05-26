@@ -159,7 +159,7 @@
             // 
             resources.ApplyResources(this.textValueName, "textValueName");
             this.textValueName.Name = "textValueName";
-            this.textValueName.TextChanged += new System.EventHandler(this.txtLen_TextChanged);
+            this.textValueName.TextChanged += new System.EventHandler(this.textValueName_TextChanged);
             // 
             // label4
             // 

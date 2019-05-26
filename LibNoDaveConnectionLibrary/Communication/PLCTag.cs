@@ -181,6 +181,7 @@ namespace DotNetSiemensPLCToolBoxLibrary.Communication
                 this.DataBlockNumber = oldTag.DataBlockNumber;
                 this.Controlvalue = oldTag.Controlvalue;
                 this.DontSplitValue = oldTag.DontSplitValue;
+                if (oldTag.ValueName != null) this.ValueName = oldTag.ValueName;
             }
         }
 

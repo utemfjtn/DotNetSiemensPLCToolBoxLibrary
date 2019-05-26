@@ -50,6 +50,7 @@ namespace DotNetSiemensPLCToolBoxLibrary.Communication
             txtByte.Text = _libnodavevalue.ByteAddress.ToString();
             txtBit.Text = _libnodavevalue.BitAddress.ToString();
             txtLen.Text = _libnodavevalue.ArraySize.ToString();
+            if (_libnodavevalue.ValueName != null) textValueName.Text = _libnodavevalue.ValueName.ToString();
             cmbSource.SelectedIndex = cmbSource.FindStringExact(_libnodavevalue.TagDataSource.ToString());
             cmbType.SelectedIndex = cmbType.FindStringExact(_libnodavevalue.TagDataType.ToString());
 
@@ -163,6 +164,11 @@ namespace DotNetSiemensPLCToolBoxLibrary.Communication
         private void txtLen_TextChanged(object sender, EventArgs e)
         {
             _libnodavevalue.ArraySize = Int32.Parse(txtLen.Text);
+        }
+
+        private void textValueName_TextChanged(object sender, EventArgs e)
+        {
+            _libnodavevalue.ValueName = textValueName.Text;
         }
     }
 }
