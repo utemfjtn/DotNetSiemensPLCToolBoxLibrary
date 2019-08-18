@@ -513,6 +513,24 @@
   <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
+  <data name="lblPT2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>111, 0</value>
+  </data>
+  <data name="lblPT2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="lblPT2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>10, 18</value>
+  </data>
+  <data name="lblPT2.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="lblPT2.Text" xml:space="preserve">
+    <value>.</value>
+  </data>
+  <data name="lblPT2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomCenter</value>
+  </data>
   <data name="&gt;&gt;lblPT2.Name" xml:space="preserve">
     <value>lblPT2</value>
   </data>
@@ -549,41 +567,11 @@
   <data name="&gt;&gt;flowLayoutPanel1.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="lblPT2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>111, 0</value>
-  </data>
-  <data name="lblPT2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>0, 0, 0, 0</value>
-  </data>
-  <data name="lblPT2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>10, 18</value>
-  </data>
-  <data name="lblPT2.TabIndex" type="System.Int32, mscorlib">
-    <value>17</value>
-  </data>
-  <data name="lblPT2.Text" xml:space="preserve">
-    <value>.</value>
-  </data>
-  <data name="lblPT2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>BottomCenter</value>
-  </data>
-  <data name="&gt;&gt;lblPT2.Name" xml:space="preserve">
-    <value>lblPT2</value>
-  </data>
-  <data name="&gt;&gt;lblPT2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lblPT2.Parent" xml:space="preserve">
-    <value>flowLayoutPanel1</value>
-  </data>
-  <data name="&gt;&gt;lblPT2.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
   <data name="textValueName.Location" type="System.Drawing.Point, System.Drawing">
-    <value>246, 182</value>
+    <value>148, 182</value>
   </data>
   <data name="textValueName.Size" type="System.Drawing.Size, System.Drawing">
-    <value>89, 21</value>
+    <value>187, 21</value>
   </data>
   <data name="textValueName.TabIndex" type="System.Int32, mscorlib">
     <value>11</value>
@@ -610,7 +598,7 @@
     <value>NoControl</value>
   </data>
   <data name="label4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>242, 164</value>
+    <value>146, 164</value>
   </data>
   <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
     <value>113, 12</value>
